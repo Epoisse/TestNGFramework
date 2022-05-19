@@ -1,0 +1,7 @@
+
+Needed dependencies:
+
+1. testNG
+2. Selenium
+3. appache Poi
+4.
